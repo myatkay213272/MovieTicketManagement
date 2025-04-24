@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|c:\\users\\asus\\3d objects\\ticketbookingmanagement\\movieticketbookingsystem\\buyticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|solutionrelative:movieticketbookingsystem\\buyticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|c:\\users\\asus\\3d objects\\ticketbookingmanagement\\movieticketbookingsystem\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|solutionrelative:movieticketbookingsystem\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|c:\\users\\asus\\3d objects\\ticketbookingmanagement\\movieticketbookingsystem\\buyticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|solutionrelative:movieticketbookingsystem\\buyticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\movieticketbookingsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|solutionrelative:movieticketbookingsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|c:\\users\\asus\\3d objects\\ticketbookingmanagement\\movieticketbookingsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|solutionrelative:movieticketbookingsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|c:\\users\\asus\\3d objects\\ticketbookingmanagement\\movieticketbookingsystem\\staffform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|solutionrelative:movieticketbookingsystem\\staffform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|c:\\users\\asus\\3d objects\\ticketbookingmanagement\\movieticketbookingsystem\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D98285A9-F20B-4060-ADAF-04502B22A9A3}|MovieTicketBookingSystem\\MovieTicketBookingSystem.csproj|solutionrelative:movieticketbookingsystem\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ASUS_DOCUMENTS_MOVIE.MDF/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "staffForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\staffForm.Designer.cs",
+              "RelativeDocumentMoniker": "MovieTicketBookingSystem\\staffForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\staffForm.Designer.cs",
+              "RelativeToolTip": "MovieTicketBookingSystem\\staffForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:03:51.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\dashboardForm.cs",
+              "RelativeDocumentMoniker": "MovieTicketBookingSystem\\dashboardForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\dashboardForm.cs",
+              "RelativeToolTip": "MovieTicketBookingSystem\\dashboardForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:01:09.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\dashboardForm.cs",
+              "RelativeDocumentMoniker": "MovieTicketBookingSystem\\dashboardForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\dashboardForm.cs [Design]",
+              "RelativeToolTip": "MovieTicketBookingSystem\\dashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:16:19.709Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "buyTicketForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\buyTicketForm.cs",
+              "RelativeDocumentMoniker": "MovieTicketBookingSystem\\buyTicketForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\buyTicketForm.cs",
+              "RelativeToolTip": "MovieTicketBookingSystem\\buyTicketForm.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAIwKoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:01:00.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "buyTicketForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\buyTicketForm.cs",
+              "RelativeDocumentMoniker": "MovieTicketBookingSystem\\buyTicketForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\buyTicketForm.cs [Design]",
+              "RelativeToolTip": "MovieTicketBookingSystem\\buyTicketForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:00:57.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ASUS_DOCUMENTS_MOVIE.MDF/True/SqlTable/dbo.users.sql",
+              "ToolTip": "dbo.users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T05:59:43.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "staffForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\staffForm.cs",
+              "RelativeDocumentMoniker": "MovieTicketBookingSystem\\staffForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\staffForm.cs",
+              "RelativeToolTip": "MovieTicketBookingSystem\\staffForm.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAmwOcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:56:51.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "staffForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\staffForm.cs",
+              "RelativeDocumentMoniker": "MovieTicketBookingSystem\\staffForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\3D Objects\\TicketBookingManagement\\MovieTicketBookingSystem\\staffForm.cs [Design]",
+              "RelativeToolTip": "MovieTicketBookingSystem\\staffForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:56:39.17Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
